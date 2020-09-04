@@ -4,8 +4,16 @@ const db = require("../models");
 
 const path = require("path");
 
-router.get("/", (req, res) => {
+router.get("/exercise", (req, res) => {
   res.json({});
 });
+
+router.get("/exercise/:id", (req, res) => {
+  res.json({});
+});
+
+
+
+
 
 module.exports= router;
