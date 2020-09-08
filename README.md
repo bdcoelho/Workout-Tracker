@@ -29,7 +29,7 @@
 
   ## Demonstration
 
-  View a live demonstration [here](https://dry-lowlands-11752.herokuapp.com/).
+  Access the live application [here](https://dry-lowlands-11752.herokuapp.com/).
 
   #### Screenshot
 
