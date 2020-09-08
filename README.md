@@ -49,7 +49,7 @@
 
   ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
-  You may utilize this application under the terms of the [MIT license](assets/licences/MIT.txt).
+  You may utilize this application under the terms of the [MIT license](public/licences/MIT.txt).
 
   ## Contributions
 
