@@ -1,3 +1,5 @@
 node_modules/
 instructions.md
 test.js
+insert-data.js
+connect.js
